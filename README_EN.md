@@ -26,11 +26,24 @@ Guided by the mission of **creating sustainable value for the engineering indust
 
 ## Value Proposition
 
-| Positioning | Capabilities |
-| --- | --- |
-| **Innovator in Digital Archives Platforms** | Centered on engineering documents, electronic records, and urban infrastructure data, CHSK builds digital archive platforms covering record generation, collection, classification, e-signatures/e-seals, archiving, retrieval, utilization, governance, and long-term preservation. Archives become traceable, verifiable, analyzable, reusable, and continuously accumulated digital assets. |
-| **Leader in Intelligent Construction Platforms** | By integrating BIM, IoT, AI, data cockpits, and project collaboration, CHSK connects the full construction lifecycle and digitalizes people, machinery, materials, methods, and environment, improving quality, safety, schedule, and cost control. |
-| **Integrated Service Provider for Digital Cities** | Based on CIM, GIS, digital twins, and data governance capabilities, CHSK serves smart parks, smart transportation, smart water, city operations, and infrastructure management scenarios, building city-level digital foundations and integrated operation services. |
+<table>
+  <tr>
+    <th width="34%" style="white-space: nowrap;">Positioning</th>
+    <th width="66%">Capabilities</th>
+  </tr>
+  <tr>
+    <td style="white-space: nowrap;"><strong>Innovator in Digital Archives Platforms</strong></td>
+    <td>Centered on engineering documents, electronic records, and urban infrastructure data, CHSK builds digital archive platforms covering record generation, collection, classification, e-signatures/e-seals, archiving, retrieval, utilization, governance, and long-term preservation. Archives become traceable, verifiable, analyzable, reusable, and continuously accumulated digital assets.</td>
+  </tr>
+  <tr>
+    <td style="white-space: nowrap;"><strong>Leader in Intelligent Construction Platforms</strong></td>
+    <td>By integrating BIM, IoT, AI, data cockpits, and project collaboration, CHSK connects the full construction lifecycle and digitalizes people, machinery, materials, methods, and environment, improving quality, safety, schedule, and cost control.</td>
+  </tr>
+  <tr>
+    <td style="white-space: nowrap;"><strong>Integrated Service Provider for Digital Cities</strong></td>
+    <td>Based on CIM, GIS, digital twins, and data governance capabilities, CHSK serves smart parks, smart transportation, smart water, city operations, and infrastructure management scenarios, building city-level digital foundations and integrated operation services.</td>
+  </tr>
+</table>
 
 ---
 
